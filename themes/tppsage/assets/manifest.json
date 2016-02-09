@@ -22,6 +22,10 @@
     }
   },
   "config": {
+<<<<<<< HEAD
     "devUrl": "http://tpp/"
+=======
+    "devUrl": "http://example.dev"
+>>>>>>> 546743aeed2a14b41c4cb964f490eef30c6ac9a7
   }
 }
